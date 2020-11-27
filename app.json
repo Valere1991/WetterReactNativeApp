@@ -1,0 +1,12 @@
+{
+  "name": "Wetter",
+  "displayName": "Wetter",
+  "expo": {
+    "name": "Wetter",
+    "slug": "Wetter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
